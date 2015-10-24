@@ -2,6 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://www.daozidami.com/2015/10/24/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</loc>
+    <lastmod>2015-10-24T11:47:45.000Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.daozidami.com/2015/10/24/hello-world/</loc>
+    <lastmod>2015-10-24T11:43:19.000Z</lastmod>
+  </url>
+  
+  <url>
     <loc>http://www.daozidami.com/2015/10/20/%E7%BB%88%E4%BA%8E%E6%90%9E%E5%A5%BD%E4%BA%86%EF%BC%81/</loc>
     <lastmod>2015-10-21T10:00:55.000Z</lastmod>
   </url>
@@ -14,11 +24,6 @@
   <url>
     <loc>http://www.daozidami.com/tags/index.html</loc>
     <lastmod>2015-10-20T08:55:22.000Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.daozidami.com/2015/10/20/hello-world/</loc>
-    <lastmod>2015-10-20T05:16:20.000Z</lastmod>
   </url>
   
 </urlset>
